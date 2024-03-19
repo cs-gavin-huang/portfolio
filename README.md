@@ -1,13 +1,11 @@
 # Data Scientist
 
-- 📧 **Email:** [a1901366@adelaide.edu.au](mailto:a1901366@adelaide.edu.au)
-- 🔗 **LinkedIn:** [https://t.ly/ktjN0](https://t.ly/ktjN0)
-- 📍 **Location:** Adelaide
+- 📧 Email: [a1901366@adelaide.edu.au](mailto:a1901366@adelaide.edu.au)
+- 🔗 LinkedIn: [LinkedIn](https://t.ly/ktjN0)
 
 ## Education
-
-- **The University of Adelaide** - Master of Computer Science (Jul 2023 - Jun 2025)
-- **Huizhou University** - Bachelor of Software Engineering (Sep 2017 - Jun 2022)
+- M.S., Computer Science | The University of Adelaide (_Jun 2025_)
+- B.S., Software Engineering | Huizhou University (_Jun 2022_)
 
 ## Major Projects
 
